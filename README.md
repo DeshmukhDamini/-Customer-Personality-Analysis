@@ -8,39 +8,39 @@ Steps Performed
 
 1. Data Import
 
-Loaded marketing_campaign.csv using Pandas.
+  Loaded marketing_campaign.csv using Pandas.
 
-Shuffled the data for randomness.
+  Shuffled the data for randomness.
 
 2. Initial Exploration
 
-Checked dataset shape, column names, and data types.
+  Checked dataset shape, column names, and data types.
 
-Reviewed the first few rows to understand the data.
+  Reviewed the first few rows to understand the data.
 
 3. Identified missing values and data inconsistencies.
 
-Handling Missing Values
+  Handling Missing Values
 
-Filled missing values in the Income column with the median to preserve distribution and avoid bias.
+  Filled missing values in the Income column with the median to preserve distribution and avoid bias.
 
 4. Removing Duplicates
 
-Detected and removed duplicate rows to ensure data integrity.
+  Detected and removed duplicate rows to ensure data integrity.
 
 5. Final Dataset
 
-Produced a cleaned dataset ready for exploratory data analysis (EDA) or machine learning tasks.
+  Produced a cleaned dataset ready for exploratory data analysis (EDA) or machine learning tasks.
 
 Tools Used
-Python
+  Python
 
-Pandas — Data manipulation
+  Pandas — Data manipulation
 
-NumPy — Numerical operations
+  NumPy — Numerical operations
 
-Matplotlib & Seaborn — Data visualization
+  Matplotlib & Seaborn — Data visualization
 
 Outcome:
 
-A clean and consistent dataset, free from missing values in key fields and duplicates, ready for analysis.
+  A clean and consistent dataset, free from missing values in key fields and duplicates, ready for analysis.
